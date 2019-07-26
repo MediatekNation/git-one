@@ -1,2 +1,3 @@
 This is another file another.txt
 This file is going to modified in master branch.
+This file is updated and tested for feature-c branch.
